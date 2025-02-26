@@ -20,7 +20,7 @@ This project is a simple React application that integrates Google reCAPTCHA to e
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AhmedQeshta/reCAPTCHA-App
 cd recaptcha-app
 npm install
 ```
